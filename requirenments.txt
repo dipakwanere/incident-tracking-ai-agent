@@ -1,8 +1,0 @@
-langchain
-langchain-community
-chromadb
-openai
-python-dotenv
-tiktoken
-fastapi # optional demo endpoint
-uvicorn
