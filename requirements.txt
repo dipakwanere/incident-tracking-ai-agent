@@ -4,5 +4,7 @@ chromadb
 openai
 python-dotenv
 tiktoken
-fastapi # optional demo endpoint
+fastapi
 uvicorn
+mlflow
+requests
